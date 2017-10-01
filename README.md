@@ -14,7 +14,7 @@ nulos.
 
 
 
-#Tarea 2. Multiplicación Matriz-Matriz
+# Tarea 2. Multiplicación Matriz-Matriz
 
 Desarrollar un programa que implemente la multiplicación matriz-matriz. Para ello tomaremos un
 tamaño de N=1000.
