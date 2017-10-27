@@ -23,7 +23,10 @@ Ssh version: 3.2.9
 . /etc/profile.d/modules.sh
 mpirun ./ej 
 
-
+Comandos basicos
+===
 qsub MI_SCRIPT (lanzara el script)
+
 qstats (estado de cola)
+
 qdel id_job (para borrar de cola)
