@@ -30,3 +30,9 @@ qsub MI_SCRIPT (lanzara el script)
 qstats (estado de cola)
 
 qdel id_job (para borrar de cola)
+
+# PRACTICA 1
+
+1º operacion se envian repartidos
+
+2º se suman los resultados de cada y se suman.
