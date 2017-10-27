@@ -7,12 +7,19 @@ usuario: cp_2017_20
 Ssh version: 3.2.9
 
 #!/bin/bash
+
 #$ -N NOMBRE_CORTO
+
 #$ -o Salida.out
+
 #$ -e Error.err
+
 #$ -q cp6.q  // Numero maximo de colas
+
 #$ -pe mpi 4 // Numero procesos
+
 #$ -cwd
+
 . /etc/profile.d/modules.sh
 mpirun ./ej 
 
