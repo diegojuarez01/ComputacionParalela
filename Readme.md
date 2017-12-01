@@ -44,3 +44,5 @@ $ -pe smp 3 //reserva 3 hilos
 export omp_num_threads
 
 //Automatizadores for paralelos o reducciones.
+
+para que funcione la raiz cuadrada en la ejecucion hay que poner -lm.
