@@ -46,3 +46,8 @@ export omp_num_threads
 //Automatizadores for paralelos o reducciones.
 
 para que funcione la raiz cuadrada en la ejecucion hay que poner -lm.
+
+//Creando ejecutable openmp
+
+gcc -fopenmp -o ejemplo ejemplo1.c
+
