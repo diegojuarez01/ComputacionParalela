@@ -36,3 +36,11 @@ qdel id_job (para borrar de cola)
 1º operacion se envian repartidos
 
 2º se suman los resultados de cada y se suman.
+
+# PRACTICA 2
+
+$ -pe smp 3 //reserva 3 hilos
+
+export omp_num_threads
+
+//Automatizadores for paralelos o reducciones.
