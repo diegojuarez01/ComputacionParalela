@@ -51,3 +51,7 @@ para que funcione la raiz cuadrada en la ejecucion hay que poner -lm.
 
 gcc -fopenmp -o ejemplo ejemplo1.c
 
+# PRACTICA 3
+
+Ejecutar con exclusividad en cpuq.
+
